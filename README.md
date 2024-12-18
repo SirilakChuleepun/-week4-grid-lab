@@ -1,1 +1,35 @@
 # week4-grid-lab
+-git add .
+-git commit -m "init project"
+-git push
+-git add .
+-git commit -m "simple HTML"
+-git add .
+-git commit -m "add grid layout simple"
+-git add .
+-git commit -m "add href in css"
+-git add .
+-git commit -m "add media queries for responsive design"
+-git add .
+-git commit -m "add test responsive"
+-git add .
+-git commit -m "add css animation"
+-git add .
+-git commit -m "add hover effects"
+-git add .
+-git commit -m "init gallery"
+-git add .
+-git commit -m "create html simple"
+-git add .
+-git commit -m "add masonry layout from css grid"
+-git add .
+-git commit -m "add media queries for responsive gallery"
+-git add .
+-git commit -m "add hover and loading animations"
+-git add .
+-git commit -m "add filter animations"
+-git add .
+-git commit -m "link javascript"
+-git add .
+-git commit -m "sort css form index"
+-git push
